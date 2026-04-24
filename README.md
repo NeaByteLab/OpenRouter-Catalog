@@ -2,10 +2,14 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (703)
+## Available Cloud Models (705)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openai/gpt-5.5-pro` | `1,050,000 tokens` | `2026-04-24T18:21:26.262807+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.5-pro) |
+| `openai/gpt-5.5` | `1,050,000 tokens` | `2026-04-24T18:21:23.242415+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.5) |
+| `nvidia/llama-3.3-nemotron-super-49b-v1.5` | `131,072 tokens` | `2026-04-24T17:43:10.864429+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1.5) |
+| `tencent/hy3-preview` | `262,144 tokens` | `2026-04-24T14:40:03.983331+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-24T04:08:06.801066+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | `2026-04-24T04:07:55.496363+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `google/gemini-3.1-flash-tts-preview` | `8,192 tokens` | `2026-04-24T03:04:53.236267+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
@@ -17,7 +21,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `hexgrad/kokoro-82m` | `4,096 tokens` | `2026-04-24T00:27:25.482828+00:00` | `text` | [Open](https://openrouter.ai/models/hexgrad/kokoro-82m) |
 | `google/veo-3.1-lite` | `-` | `2026-04-23T21:13:55.384236+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1-lite) |
 | `minimax/hailuo-2.3` | `-` | `2026-04-23T17:18:45.452958+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/minimax/hailuo-2.3) |
-| `tencent/hy3-preview` | `262,144 tokens` | `2026-04-23T16:27:51.703748+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `inclusionai/ling-2.6-1t` | `262,144 tokens` | `2026-04-23T15:28:35.537753+00:00` | `text` | [Open](https://openrouter.ai/models/inclusionai/ling-2.6-1t) |
 | `baidu/qianfan-ocr-fast` | `65,536 tokens` | `2026-04-23T01:56:28.013447+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/baidu/qianfan-ocr-fast) |
 | `openai/gpt-4o-mini-tts-2025-12-15` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-tts-2025-12-15) |
@@ -279,7 +282,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nvidia/nemotron-nano-9b-v2` | `128,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-nano-9b-v2) |
 | `nvidia/nemotron-nano-9b-v2` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-nano-9b-v2) |
 | `nvidia/nemotron-4-340b-instruct` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/nvidia/nemotron-4-340b-instruct) |
-| `nvidia/llama-3.3-nemotron-super-49b-v1.5` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1.5) |
 | `nvidia/llama-3.3-nemotron-super-49b-v1` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1) |
 | `nvidia/llama-3.1-nemotron-ultra-253b-v1` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/llama-3.1-nemotron-ultra-253b-v1) |
 | `nvidia/llama-3.1-nemotron-nano-8b-v1` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/nvidia/llama-3.1-nemotron-nano-8b-v1) |
@@ -448,7 +450,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
