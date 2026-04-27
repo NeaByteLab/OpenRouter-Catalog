@@ -6,6 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-27T15:52:44.280856+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
+| `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | `2026-04-27T15:52:38.901533+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `qwen/qwen3.5-plus-20260420` | `1,000,000 tokens` | `2026-04-27T04:21:21.854424+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.5-plus-20260420) |
 | `qwen/qwen3.6-flash` | `1,000,000 tokens` | `2026-04-27T04:21:18.97943+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-flash) |
 | `qwen/qwen3.6-max-preview` | `262,144 tokens` | `2026-04-27T03:35:43.820538+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-max-preview) |
@@ -18,8 +20,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-5.5` | `1,050,000 tokens` | `2026-04-24T18:21:23.242415+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.5) |
 | `nvidia/llama-3.3-nemotron-super-49b-v1.5` | `131,072 tokens` | `2026-04-24T17:43:10.864429+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1.5) |
 | `tencent/hy3-preview` | `262,144 tokens` | `2026-04-24T14:40:03.983331+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
-| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-24T04:08:06.801066+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
-| `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | `2026-04-24T04:07:55.496363+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `google/gemini-3.1-flash-tts-preview` | `8,192 tokens` | `2026-04-24T03:04:53.236267+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
 | `google/veo-3.1-fast` | `-` | `2026-04-24T01:37:51.375723+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1-fast) |
 | `zyphra/zonos-v0.1-transformer` | `4,096 tokens` | `2026-04-24T00:27:27.879764+00:00` | `text` | [Open](https://openrouter.ai/models/zyphra/zonos-v0.1-transformer) |
