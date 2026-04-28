@@ -54,7 +54,7 @@ for modelData in modelList:
     capText = '(none)'
   modelLink = f'https://openrouter.ai/models/{modelSlug}'
   tableRows.append((modelSlug, sizeText, modifiedAt, capText, modelLink))
-tableRows.sort(key=lambda rowItem: (rowItem[2], rowItem[0].lower()), reverse=True)
+tableRows.sort(key=lambda rowItem: (rowItem[2] or '', rowItem[0].lower()), reverse=True)
 readmeLines = [
   '# OpenRouter Catalog',
   '',
