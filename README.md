@@ -19,7 +19,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `qwen/qwen3.6-flash` | `1,000,000 tokens` | `2026-04-27T04:21:18.97943+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-flash) |
 | `qwen/qwen3.6-max-preview` | `262,144 tokens` | `2026-04-27T03:35:43.820538+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-max-preview) |
 | `qwen/qwen3.6-35b-a3b` | `262,144 tokens` | `2026-04-27T03:32:48.372228+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-35b-a3b) |
-| `qwen/qwen3.6-27b` | `262,144 tokens` | `2026-04-27T03:32:47.263211+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-27b) |
+| `qwen/qwen3.6-27b` | `256,000 tokens` | `2026-04-27T03:32:47.263211+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-27b) |
 | `qwen/qwen3.6-plus` | `1,000,000 tokens` | `2026-04-27T03:32:21.206851+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-plus) |
 | `google/gemini-2.5-pro` | `1,048,576 tokens` | `2026-04-27T03:32:06.603628+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-pro) |
 | `qwen/qwen3-8b` | `40,960 tokens` | `2026-04-27T03:32:06.132312+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-8b) |
