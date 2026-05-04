@@ -6,6 +6,20 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `x-ai/grok-vision-beta` | `8,192 tokens` | `2026-05-04T18:57:40.517685+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-vision-beta) |
+| `x-ai/grok-beta` | `131,072 tokens` | `2026-05-04T18:57:39.931713+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-beta) |
+| `x-ai/grok-2-vision-1212` | `32,768 tokens` | `2026-05-04T18:57:39.247687+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-2-vision-1212) |
+| `x-ai/grok-2-mini` | `32,768 tokens` | `2026-05-04T18:57:38.540803+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-mini) |
+| `x-ai/grok-2-1212` | `131,072 tokens` | `2026-05-04T18:57:37.844892+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-1212) |
+| `x-ai/grok-2` | `32,768 tokens` | `2026-05-04T18:57:37.302697+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2) |
+| `x-ai/grok-3-mini-beta` | `131,072 tokens` | `2026-05-04T18:57:36.573366+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-3-mini-beta) |
+| `x-ai/grok-3-beta` | `131,072 tokens` | `2026-05-04T18:57:35.902632+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-3-beta) |
+| `x-ai/grok-3-mini` | `131,072 tokens` | `2026-05-04T18:57:35.341365+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-3-mini) |
+| `x-ai/grok-3` | `131,072 tokens` | `2026-05-04T18:57:34.671992+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-3) |
+| `x-ai/grok-code-fast-1` | `256,000 tokens` | `2026-05-04T18:57:33.999746+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-code-fast-1) |
+| `x-ai/grok-4-fast` | `2,000,000 tokens` | `2026-05-04T18:57:33.399198+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4-fast) |
+| `x-ai/grok-4` | `256,000 tokens` | `2026-05-04T18:57:32.818085+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4) |
+| `x-ai/grok-4.1-fast` | `2,000,000 tokens` | `2026-05-04T18:57:32.133031+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.1-fast) |
 | `openai/whisper-large-v3-turbo` | `-` | `2026-05-01T18:23:06.774452+00:00` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3-turbo) |
 | `openai/whisper-large-v3` | `-` | `2026-05-01T18:22:45.468566+00:00` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3) |
 | `openai/gpt-4o-mini-transcribe` | `128,000 tokens` | `2026-05-01T18:21:38.562596+00:00` | `audio` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-transcribe) |
@@ -145,9 +159,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `rekaai/reka-flash-3` | `65,536 tokens` | `2026-04-01T13:25:49.414372+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/rekaai/reka-flash-3) |
 | `x-ai/grok-4.20-multi-agent-beta` | `2,000,000 tokens` | `2026-03-31T20:14:44.533224+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20-multi-agent-beta) |
 | `x-ai/grok-4.20-multi-agent` | `2,000,000 tokens` | `2026-03-31T19:01:56.714033+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20-multi-agent) |
-| `x-ai/grok-4` | `256,000 tokens` | `2026-03-31T17:20:14.852908+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4) |
-| `x-ai/grok-4-fast` | `2,000,000 tokens` | `2026-03-31T17:20:07.141982+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4-fast) |
-| `x-ai/grok-4.1-fast` | `2,000,000 tokens` | `2026-03-31T17:20:03.500409+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.1-fast) |
 | `qwen/qwen3.6-plus-preview` | `1,000,000 tokens` | `2026-03-31T16:51:18.174944+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.6-plus-preview) |
 | `kwaipilot/kat-coder-pro` | `262,144 tokens` | `2026-03-31T02:41:16.755238+00:00` | `text` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-pro) |
 | `google/lyria-3-pro-preview` | `1,048,576 tokens` | `2026-03-30T21:54:02.950639+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/lyria-3-pro-preview) |
@@ -161,17 +172,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `z-ai/glm-4.5` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.5) |
 | `z-ai/glm-4-32b` | `128,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/z-ai/glm-4-32b) |
 | `xwin-lm/xwin-lm-70b` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/xwin-lm/xwin-lm-70b) |
-| `x-ai/grok-vision-beta` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-vision-beta) |
-| `x-ai/grok-code-fast-1` | `256,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-code-fast-1) |
-| `x-ai/grok-beta` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-beta) |
-| `x-ai/grok-3-mini-beta` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-3-mini-beta) |
-| `x-ai/grok-3-mini` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-3-mini) |
-| `x-ai/grok-3-beta` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-3-beta) |
-| `x-ai/grok-3` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-3) |
-| `x-ai/grok-2-vision-1212` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-2-vision-1212) |
-| `x-ai/grok-2-mini` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-mini) |
-| `x-ai/grok-2-1212` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-1212) |
-| `x-ai/grok-2` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2) |
 | `undi95/toppy-m-7b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/undi95/toppy-m-7b) |
 | `undi95/remm-slerp-l2-13b` | `6,144 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/undi95/remm-slerp-l2-13b) |
 | `tokyotech-llm/llama-3.1-swallow-8b-instruct-v0.3` | `16,384 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/tokyotech-llm/llama-3.1-swallow-8b-instruct-v0.3) |
