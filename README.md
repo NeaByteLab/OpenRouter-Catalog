@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (730)
+## Available Cloud Models (731)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `mistralai/mistral-medium-3-5` | `262,144 tokens` | `2026-05-04T20:18:53.773503+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3-5) |
 | `x-ai/grok-vision-beta` | `8,192 tokens` | `2026-05-04T18:57:40.517685+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-vision-beta) |
 | `x-ai/grok-beta` | `131,072 tokens` | `2026-05-04T18:57:39.931713+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-beta) |
 | `x-ai/grok-2-vision-1212` | `32,768 tokens` | `2026-05-04T18:57:39.247687+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-2-vision-1212) |
