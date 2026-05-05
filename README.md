@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (731)
+## Available Cloud Models (732)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `microsoft/phi-4-mini-instruct` | `128,000 tokens` | `2026-05-05T14:39:44.451604+00:00` | `text` | [Open](https://openrouter.ai/models/microsoft/phi-4-mini-instruct) |
 | `~anthropic/claude-haiku-latest` | `200,000 tokens` | `2026-05-05T04:43:05.067711+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-haiku-latest) |
 | `~anthropic/claude-opus-latest` | `1,000,000 tokens` | `2026-05-05T04:43:04.577565+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-opus-latest) |
 | `mistralai/mistral-medium-3-5` | `262,144 tokens` | `2026-05-04T20:18:53.773503+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3-5) |
@@ -473,7 +474,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
