@@ -6,6 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `~anthropic/claude-haiku-latest` | `200,000 tokens` | `2026-05-05T04:43:05.067711+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-haiku-latest) |
+| `~anthropic/claude-opus-latest` | `1,000,000 tokens` | `2026-05-05T04:43:04.577565+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-opus-latest) |
 | `mistralai/mistral-medium-3-5` | `262,144 tokens` | `2026-05-04T20:18:53.773503+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3-5) |
 | `x-ai/grok-vision-beta` | `8,192 tokens` | `2026-05-04T18:57:40.517685+00:00` | `text, vision` | [Open](https://openrouter.ai/models/x-ai/grok-vision-beta) |
 | `x-ai/grok-beta` | `131,072 tokens` | `2026-05-04T18:57:39.931713+00:00` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-beta) |
@@ -73,7 +75,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-4o-mini-tts-2025-12-15` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-tts-2025-12-15) |
 | `mistralai/voxtral-mini-tts-2603` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/mistralai/voxtral-mini-tts-2603) |
 | `openai/gpt-5.4-image-2` | `272,000 tokens` | `2026-04-21T23:24:05.941674+00:00` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-image-2) |
-| `~anthropic/claude-opus-latest` | `1,000,000 tokens` | `2026-04-21T22:23:39.167341+00:00` | `text, vision` | [Open](https://openrouter.ai/models/~anthropic/claude-opus-latest) |
 | `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-04-21T22:06:49.630733+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `openrouter/pareto-code` | `200,000 tokens` | `2026-04-21T18:26:30.886248+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `openrouter/auto` | `2,000,000 tokens` | `2026-04-21T18:20:22.875593+00:00` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
@@ -472,7 +473,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
@@ -732,11 +733,10 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `aion-labs/aion-1.0` | `131,072 tokens` | `2025-11-10T16:00:38.246665+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/aion-labs/aion-1.0) |
 | `~openai/gpt-mini-latest` | `400,000 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~openai/gpt-mini-latest) |
 | `~openai/gpt-latest` | `1,050,000 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~openai/gpt-latest) |
-| `~moonshotai/kimi-latest` | `262,144 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~moonshotai/kimi-latest) |
+| `~moonshotai/kimi-latest` | `262,142 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~moonshotai/kimi-latest) |
 | `~google/gemini-pro-latest` | `1,048,576 tokens` | `None` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/~google/gemini-pro-latest) |
 | `~google/gemini-flash-latest` | `1,048,576 tokens` | `None` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/~google/gemini-flash-latest) |
 | `~anthropic/claude-sonnet-latest` | `1,000,000 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-sonnet-latest) |
-| `~anthropic/claude-haiku-latest` | `200,000 tokens` | `None` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/~anthropic/claude-haiku-latest) |
 
 ## License
 
