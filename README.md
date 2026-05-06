@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (733)
+## Available Cloud Models (729)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-06T01:35:23.092752+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `x-ai/grok-4.1-fast` | `2,000,000 tokens` | `2026-05-05T18:33:41.058729+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.1-fast) |
 | `x-ai/grok-4-fast` | `2,000,000 tokens` | `2026-05-05T18:33:33.636082+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4-fast) |
 | `x-ai/grok-code-fast-1` | `256,000 tokens` | `2026-05-05T18:33:28.522614+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-code-fast-1) |
@@ -13,7 +14,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-haiku-4.5` | `200,000 tokens` | `2026-05-05T18:27:52.31359+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-haiku-4.5) |
 | `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-05-05T18:20:57.315509+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
 | `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-05-05T18:20:17.951301+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
-| `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-05T18:18:25.492315+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `openai/gpt-5.5-pro` | `1,050,000 tokens` | `2026-05-05T18:03:31.506397+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.5-pro) |
 | `openai/gpt-5.5` | `1,050,000 tokens` | `2026-05-05T18:03:21.886661+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.5) |
 | `openai/gpt-chat-latest` | `400,000 tokens` | `2026-05-05T18:01:50.845513+00:00` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-chat-latest) |
@@ -444,15 +444,11 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/palm-2-chat-bison-32k` | `32,760 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/palm-2-chat-bison-32k) |
 | `google/palm-2-chat-bison` | `9,216 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/palm-2-chat-bison) |
 | `google/gemma-7b-it` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-7b-it) |
-| `google/gemma-3n-e4b-it` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-3n-e4b-it) |
 | `google/gemma-3n-e4b-it` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-3n-e4b-it) |
 | `google/gemma-3n-e2b-it` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-3n-e2b-it) |
-| `google/gemma-3-4b-it` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-4b-it) |
 | `google/gemma-3-4b-it` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-4b-it) |
 | `google/gemma-3-27b-it` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-27b-it) |
-| `google/gemma-3-27b-it` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-27b-it) |
 | `google/gemma-3-1b-it` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-1b-it) |
-| `google/gemma-3-12b-it` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-12b-it) |
 | `google/gemma-3-12b-it` | `131,072 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemma-3-12b-it) |
 | `google/gemma-2b-it` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-2b-it) |
 | `google/gemma-2-9b-it` | `8,192 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemma-2-9b-it) |
