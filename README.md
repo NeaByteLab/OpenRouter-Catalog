@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (730)
+## Available Cloud Models (731)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `google/chirp-3` | `-` | `2026-05-06T17:19:59.970012+00:00` | `audio` | [Open](https://openrouter.ai/models/google/chirp-3) |
 | `baidu/cobuddy` | `131,072 tokens` | `2026-05-06T02:50:55.837421+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/baidu/cobuddy) |
 | `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-06T01:35:23.092752+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `x-ai/grok-4.1-fast` | `2,000,000 tokens` | `2026-05-05T18:33:41.058729+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.1-fast) |
