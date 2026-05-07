@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (731)
+## Available Cloud Models (730)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -607,7 +607,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `upstage/solar-pro-3` | `128,000 tokens` | `2026-03-02T16:57:12.877811+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/upstage/solar-pro-3) |
 | `liquid/lfm-2-24b-a2b` | `32,768 tokens` | `2026-02-27T20:41:09.601328+00:00` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2-24b-a2b) |
 | `nvidia/nemotron-nano-12b-v2-vl` | `128,000 tokens` | `2026-02-27T19:15:13.186228+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-nano-12b-v2-vl) |
-| `nvidia/nemotron-nano-12b-v2-vl` | `131,072 tokens` | `2026-02-27T19:15:13.186228+00:00` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-nano-12b-v2-vl) |
 | `nvidia/nemotron-3-nano-30b-a3b` | `256,000 tokens` | `2026-02-27T19:14:56.312554+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-nano-30b-a3b) |
 | `nvidia/nemotron-3-nano-30b-a3b` | `262,144 tokens` | `2026-02-27T19:14:56.312554+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-nano-30b-a3b) |
 | `nvidia/llama-nemotron-embed-vl-1b-v2` | `131,072 tokens` | `2026-02-27T19:14:47.568304+00:00` | `text, vision` | [Open](https://openrouter.ai/models/nvidia/llama-nemotron-embed-vl-1b-v2) |
