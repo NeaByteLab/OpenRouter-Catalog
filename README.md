@@ -2,10 +2,14 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (731)
+## Available Cloud Models (734)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `recraft/recraft-v4-pro` | `65,536 tokens` | `2026-05-07T22:08:04.609535+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro) |
+| `recraft/recraft-v4` | `65,536 tokens` | `2026-05-07T22:08:01.711566+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4) |
+| `recraft/recraft-v3` | `65,536 tokens` | `2026-05-07T22:07:59.248783+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v3) |
+| `openrouter/pareto-code` | `200,000 tokens` | `2026-05-07T21:03:54.797823+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `x-ai/grok-4.20` | `2,000,000 tokens` | `2026-05-07T18:58:44.58412+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20) |
 | `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-05-07T18:46:53.496022+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `google/gemini-3.1-flash-lite` | `1,048,576 tokens` | `2026-05-07T16:01:49.211829+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite) |
@@ -82,7 +86,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-4o-mini-tts-2025-12-15` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-tts-2025-12-15) |
 | `mistralai/voxtral-mini-tts-2603` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/mistralai/voxtral-mini-tts-2603) |
 | `openai/gpt-5.4-image-2` | `272,000 tokens` | `2026-04-21T23:24:05.941674+00:00` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-image-2) |
-| `openrouter/pareto-code` | `200,000 tokens` | `2026-04-21T18:26:30.886248+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `openrouter/auto` | `2,000,000 tokens` | `2026-04-21T18:20:22.875593+00:00` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `kwaivgi/kling-video-o1` | `-` | `2026-04-21T02:06:28.711249+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/kwaivgi/kling-video-o1) |
 | `moonshotai/kimi-k2.5` | `262,144 tokens` | `2026-04-20T15:39:00.712521+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.5) |
@@ -474,7 +477,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
