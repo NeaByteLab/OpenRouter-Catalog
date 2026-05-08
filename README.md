@@ -2,14 +2,15 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (734)
+## Available Cloud Models (735)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `inclusionai/ring-2.6-1t` | `262,144 tokens` | `2026-05-08T15:08:59.728915+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/inclusionai/ring-2.6-1t) |
+| `openrouter/pareto-code` | `200,000 tokens` | `2026-05-08T14:33:23.853224+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `recraft/recraft-v4-pro` | `65,536 tokens` | `2026-05-07T22:08:04.609535+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro) |
 | `recraft/recraft-v4` | `65,536 tokens` | `2026-05-07T22:08:01.711566+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4) |
 | `recraft/recraft-v3` | `65,536 tokens` | `2026-05-07T22:07:59.248783+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v3) |
-| `openrouter/pareto-code` | `200,000 tokens` | `2026-05-07T21:03:54.797823+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `x-ai/grok-4.20` | `2,000,000 tokens` | `2026-05-07T18:58:44.58412+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20) |
 | `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-05-07T18:46:53.496022+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `google/gemini-3.1-flash-lite` | `1,048,576 tokens` | `2026-05-07T16:01:49.211829+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite) |
