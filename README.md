@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `tencent/hy3-preview` | `262,144 tokens` | `2026-05-08T22:41:20.907368+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `inclusionai/ring-2.6-1t` | `262,144 tokens` | `2026-05-08T15:08:59.728915+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/inclusionai/ring-2.6-1t) |
 | `openrouter/pareto-code` | `200,000 tokens` | `2026-05-08T14:33:23.853224+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `recraft/recraft-v4-pro` | `65,536 tokens` | `2026-05-07T22:08:04.609535+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro) |
@@ -73,7 +74,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-pro` | `1,048,576 tokens` | `2026-04-27T03:32:06.603628+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-pro) |
 | `qwen/qwen3-8b` | `40,960 tokens` | `2026-04-27T03:32:06.132312+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-8b) |
 | `nvidia/llama-3.3-nemotron-super-49b-v1.5` | `131,072 tokens` | `2026-04-24T17:43:10.864429+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/llama-3.3-nemotron-super-49b-v1.5) |
-| `tencent/hy3-preview` | `262,144 tokens` | `2026-04-24T14:40:03.983331+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `google/gemini-3.1-flash-tts-preview` | `8,192 tokens` | `2026-04-24T03:04:53.236267+00:00` | `text` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-tts-preview) |
 | `google/veo-3.1-fast` | `-` | `2026-04-24T01:37:51.375723+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1-fast) |
 | `zyphra/zonos-v0.1-transformer` | `4,096 tokens` | `2026-04-24T00:27:27.879764+00:00` | `text` | [Open](https://openrouter.ai/models/zyphra/zonos-v0.1-transformer) |
@@ -478,7 +478,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801719+00:00` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
