@@ -6,9 +6,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openrouter/pareto-code` | `2,000,000 tokens` | `2026-05-09T11:44:20.242798+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `tencent/hy3-preview` | `262,144 tokens` | `2026-05-08T22:41:20.907368+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `inclusionai/ring-2.6-1t` | `262,144 tokens` | `2026-05-08T15:08:59.728915+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/inclusionai/ring-2.6-1t) |
-| `openrouter/pareto-code` | `200,000 tokens` | `2026-05-08T14:33:23.853224+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `recraft/recraft-v4-pro` | `65,536 tokens` | `2026-05-07T22:08:04.609535+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro) |
 | `recraft/recraft-v4` | `65,536 tokens` | `2026-05-07T22:08:01.711566+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4) |
 | `recraft/recraft-v3` | `65,536 tokens` | `2026-05-07T22:07:59.248783+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v3) |
