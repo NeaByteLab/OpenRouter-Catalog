@@ -6,7 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
-| `openrouter/pareto-code` | `2,000,000 tokens` | `2026-05-09T11:44:20.242798+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
+| `openrouter/pareto-code` | `2,000,000 tokens` | `2026-05-09T18:00:04.12116+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
+| `openrouter/auto` | `2,000,000 tokens` | `2026-05-09T17:59:13.374525+00:00` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `tencent/hy3-preview` | `262,144 tokens` | `2026-05-08T22:41:20.907368+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
 | `inclusionai/ring-2.6-1t` | `262,144 tokens` | `2026-05-08T15:08:59.728915+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/inclusionai/ring-2.6-1t) |
 | `recraft/recraft-v4-pro` | `65,536 tokens` | `2026-05-07T22:08:04.609535+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro) |
@@ -87,7 +88,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-4o-mini-tts-2025-12-15` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-tts-2025-12-15) |
 | `mistralai/voxtral-mini-tts-2603` | `4,096 tokens` | `2026-04-22T18:12:35.288885+00:00` | `text` | [Open](https://openrouter.ai/models/mistralai/voxtral-mini-tts-2603) |
 | `openai/gpt-5.4-image-2` | `272,000 tokens` | `2026-04-21T23:24:05.941674+00:00` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-image-2) |
-| `openrouter/auto` | `2,000,000 tokens` | `2026-04-21T18:20:22.875593+00:00` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `kwaivgi/kling-video-o1` | `-` | `2026-04-21T02:06:28.711249+00:00` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/kwaivgi/kling-video-o1) |
 | `moonshotai/kimi-k2.5` | `262,144 tokens` | `2026-04-20T15:39:00.712521+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.5) |
 | `black-forest-labs/flux.2-klein-4b` | `40,960 tokens` | `2026-04-15T23:12:14.607394+00:00` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/black-forest-labs/flux.2-klein-4b) |
