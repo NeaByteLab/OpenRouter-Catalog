@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-10T02:57:19.82036+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `openrouter/pareto-code` | `2,000,000 tokens` | `2026-05-09T18:00:04.12116+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `openrouter/auto` | `2,000,000 tokens` | `2026-05-09T17:59:13.374525+00:00` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `tencent/hy3-preview` | `262,144 tokens` | `2026-05-08T22:41:20.907368+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
@@ -49,7 +50,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-4o-transcribe` | `128,000 tokens` | `2026-04-30T19:56:43.086851+00:00` | `audio` | [Open](https://openrouter.ai/models/openai/gpt-4o-transcribe) |
 | `openai/whisper-1` | `-` | `2026-04-30T19:55:22.521138+00:00` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-1) |
 | `ibm-granite/granite-4.1-8b` | `131,072 tokens` | `2026-04-30T19:24:42.875536+00:00` | `text` | [Open](https://openrouter.ai/models/ibm-granite/granite-4.1-8b) |
-| `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-04-30T14:31:32.677662+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `openrouter/elephant-alpha` | `262,144 tokens` | `2026-04-30T14:31:28.917244+00:00` | `text` | [Open](https://openrouter.ai/models/openrouter/elephant-alpha) |
 | `xiaomi/mimo-v2.5` | `1,048,576 tokens` | `2026-04-30T14:15:23.148861+00:00` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2.5) |
 | `xiaomi/mimo-v2.5-pro` | `1,048,576 tokens` | `2026-04-30T14:15:16.695941+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2.5-pro) |
