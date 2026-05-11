@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (735)
+## Available Cloud Models (734)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -151,7 +151,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/codex-mini` | `200,000 tokens` | `2026-04-11T05:55:25.761505+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/codex-mini) |
 | `anthropic/claude-opus-4.1` | `200,000 tokens` | `2026-04-11T05:41:05.394154+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.1) |
 | `anthropic/claude-sonnet-4` | `1,000,000 tokens` | `2026-04-11T05:40:18.450777+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4) |
-| `anthropic/claude-3.7-sonnet` | `200,000 tokens` | `2026-04-11T05:36:44.996602+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-3.7-sonnet) |
 | `anthropic/claude-3.7-sonnet` | `200,000 tokens` | `2026-04-11T05:36:44.996602+00:00` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-3.7-sonnet) |
 | `z-ai/glm-5.1` | `202,752 tokens` | `2026-04-07T17:39:47.767489+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.1) |
 | `xiaomi/mimo-v2-pro` | `1,048,576 tokens` | `2026-04-07T14:58:59.803746+00:00` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-pro) |
