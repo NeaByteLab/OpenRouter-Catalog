@@ -256,9 +256,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `qwen/qwen2.5-vl-32b-instruct` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/qwen/qwen2.5-vl-32b-instruct) |
 | `qwen/qwen2.5-coder-7b-instruct` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen2.5-coder-7b-instruct) |
 | `qwen/qwen2.5-32b-instruct` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen2.5-32b-instruct) |
-| `qwen/qwen-vl-plus` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/qwen/qwen-vl-plus) |
+| `qwen/qwen-vl-plus` | `7,500 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/qwen/qwen-vl-plus) |
 | `qwen/qwen-vl-max` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/qwen/qwen-vl-max) |
-| `qwen/qwen-turbo` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-turbo) |
+| `qwen/qwen-turbo` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-turbo) |
 | `qwen/qwen-plus-2025-07-28` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen-plus-2025-07-28) |
 | `qwen/qwen-plus-2025-07-28` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen-plus-2025-07-28) |
 | `qwen/qwen-plus` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen-plus) |
@@ -362,7 +362,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `mistralai/mistral-small` | `32,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-small) |
 | `mistralai/mistral-saba` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-saba) |
 | `mistralai/mistral-nemo` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-nemo) |
-| `mistralai/mistral-medium-3.1` | `262,144 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3.1) |
+| `mistralai/mistral-medium-3.1` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3.1) |
 | `mistralai/mistral-medium-3` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3) |
 | `mistralai/mistral-medium` | `32,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-medium) |
 | `mistralai/mistral-large-2411` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2411) |
