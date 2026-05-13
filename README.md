@@ -6,13 +6,13 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-05-13T16:02:48.105Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
+| `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-13T15:58:16.351Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
+| `anthropic/claude-opus-4.6` | `1,000,000 tokens` | `2026-05-13T15:52:36.451Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6) |
 | `anthropic/claude-opus-4.7-fast` | `1,000,000 tokens` | `2026-05-12T19:10:11.421Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7-fast) |
 | `perceptron/perceptron-mk1` | `32,768 tokens` | `2026-05-12T15:12:35.375Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/perceptron/perceptron-mk1) |
 | `google/lyria-3-pro-preview` | `1,048,576 tokens` | `2026-05-12T14:52:02.531Z` | `text, vision` | [Open](https://openrouter.ai/models/google/lyria-3-pro-preview) |
-| `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-12T01:54:30.343Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | `2026-05-12T01:54:29.975Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
-| `anthropic/claude-opus-4.6` | `1,000,000 tokens` | `2026-05-12T01:54:29.591Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6) |
-| `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-05-12T01:54:29.187Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
 | `anthropic/claude-haiku-4.5` | `200,000 tokens` | `2026-05-12T01:54:22.936Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-haiku-4.5) |
 | `arcee-ai/trinity-large-thinking` | `262,144 tokens` | `2026-05-11T18:55:13.279Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-large-thinking) |
 | `arcee-ai/trinity-large-thinking` | `262,144 tokens` | `2026-05-11T18:55:13.279Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-large-thinking) |
