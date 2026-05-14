@@ -2,10 +2,18 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (738)
+## Available Cloud Models (746)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `recraft/recraft-v4.1-utility-pro` | `65,536 tokens` | `2026-05-14T15:53:46.885Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility-pro) |
+| `recraft/recraft-v4.1-pro` | `65,536 tokens` | `2026-05-14T15:53:44.099Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro) |
+| `recraft/recraft-v4.1-utility` | `65,536 tokens` | `2026-05-14T15:53:40.461Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility) |
+| `recraft/recraft-v4.1-pro-vector` | `65,536 tokens` | `2026-05-14T15:46:59.590Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro-vector) |
+| `recraft/recraft-v4.1-vector` | `65,536 tokens` | `2026-05-14T15:46:57.174Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-vector) |
+| `recraft/recraft-v4.1` | `65,536 tokens` | `2026-05-14T15:46:47.704Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
+| `recraft/recraft-v4-pro-vector` | `65,536 tokens` | `2026-05-14T15:46:45.615Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro-vector) |
+| `recraft/recraft-v4-vector` | `65,536 tokens` | `2026-05-14T15:46:43.460Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-vector) |
 | `google/gemini-embedding-2-preview` | `8,192 tokens` | `2026-05-14T04:33:38.585Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2-preview) |
 | `openai/gpt-4o` | `128,000 tokens` | `2026-05-13T21:47:50.313Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o) |
 | `anthropic/claude-3.5-sonnet` | `200,000 tokens` | `2026-05-13T21:47:25.474Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-sonnet) |
@@ -73,7 +81,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-3.1-pro-preview` | `1,048,576 tokens` | `2026-04-27T19:36:42.970Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-pro-preview) |
 | `moonshotai/kimi-k2.6` | `262,142 tokens` | `2026-04-27T19:36:40.219Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
 | `google/gemini-3-flash-preview` | `1,048,576 tokens` | `2026-04-27T19:36:36.393Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-flash-preview) |
-| `deepseek/deepseek-v4-flash` | `256,000 tokens` | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
+| `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | `2026-04-27T15:52:38.901Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `qwen/qwen3.5-plus-20260420` | `1,000,000 tokens` | `2026-04-27T04:21:21.854Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.5-plus-20260420) |
