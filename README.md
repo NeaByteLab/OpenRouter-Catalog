@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `google/gemini-embedding-2-preview` | `8,192 tokens` | `2026-05-14T04:33:38.585Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2-preview) |
 | `openai/gpt-4o` | `128,000 tokens` | `2026-05-13T21:47:50.313Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o) |
 | `anthropic/claude-3.5-sonnet` | `200,000 tokens` | `2026-05-13T21:47:25.474Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-sonnet) |
 | `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-05-13T16:02:48.105Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
@@ -67,7 +68,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `poolside/laguna-xs.2` | `131,072 tokens` | `2026-04-29T14:07:30.759Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
 | `inclusionai/ling-2.6-flash` | `262,144 tokens` | `2026-04-28T19:04:50.718Z` | `text` | [Open](https://openrouter.ai/models/inclusionai/ling-2.6-flash) |
 | `poolside/laguna-m.1` | `131,072 tokens` | `2026-04-28T18:59:07.077Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
-| `google/gemini-embedding-2-preview` | `8,192 tokens` | `2026-04-28T17:12:41.835Z` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-embedding-2-preview) |
 | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` | `256,000 tokens` | `2026-04-28T16:18:15.211Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning) |
 | `openai/gpt-5.4-mini` | `400,000 tokens` | `2026-04-27T19:36:47.189Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-mini) |
 | `google/gemini-3.1-pro-preview` | `1,048,576 tokens` | `2026-04-27T19:36:42.970Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-pro-preview) |
