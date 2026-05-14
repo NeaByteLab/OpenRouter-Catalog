@@ -2,10 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (737)
+## Available Cloud Models (738)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openai/gpt-4o` | `128,000 tokens` | `2026-05-13T21:47:50.313Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o) |
+| `anthropic/claude-3.5-sonnet` | `200,000 tokens` | `2026-05-13T21:47:25.474Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-sonnet) |
 | `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-05-13T16:02:48.105Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
 | `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-05-13T15:58:16.351Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
 | `anthropic/claude-opus-4.6` | `1,000,000 tokens` | `2026-05-13T15:52:36.451Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6) |
@@ -71,6 +73,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-3.1-pro-preview` | `1,048,576 tokens` | `2026-04-27T19:36:42.970Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-pro-preview) |
 | `moonshotai/kimi-k2.6` | `262,142 tokens` | `2026-04-27T19:36:40.219Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
 | `google/gemini-3-flash-preview` | `1,048,576 tokens` | `2026-04-27T19:36:36.393Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-flash-preview) |
+| `deepseek/deepseek-v4-flash` | `256,000 tokens` | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-flash` | `1,048,576 tokens` | `2026-04-27T15:52:44.280Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-flash) |
 | `deepseek/deepseek-v4-pro` | `1,048,576 tokens` | `2026-04-27T15:52:38.901Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v4-pro) |
 | `qwen/qwen3.5-plus-20260420` | `1,000,000 tokens` | `2026-04-27T04:21:21.854Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.5-plus-20260420) |
@@ -105,7 +108,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `alibaba/wan-2.7` | `-` | `2026-04-15T00:02:42.904Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/alibaba/wan-2.7) |
 | `anthropic/claude-opus-4.5` | `200,000 tokens` | `2026-04-14T02:22:37.563Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.5) |
 | `anthropic/claude-opus-4` | `200,000 tokens` | `2026-04-13T15:02:44.845Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4) |
-| `anthropic/claude-3.5-sonnet` | `200,000 tokens` | `2026-04-13T14:59:22.042Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-sonnet) |
 | `alibaba/wan-2.6` | `-` | `2026-04-12T03:59:44.705Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/alibaba/wan-2.6) |
 | `google/veo-3.1` | `-` | `2026-04-12T03:59:44.070Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1) |
 | `openai/text-embedding-ada-002` | `8,192 tokens` | `2026-04-11T05:55:25.761Z` | `text` | [Open](https://openrouter.ai/models/openai/text-embedding-ada-002) |
@@ -178,7 +180,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/lyria-3-clip-preview` | `1,048,576 tokens` | `2026-03-30T21:47:56.013Z` | `text, vision` | [Open](https://openrouter.ai/models/google/lyria-3-clip-preview) |
 | `xiaomi/mimo-v2-omni` | `262,144 tokens` | `2026-03-30T16:37:31.858Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-omni) |
 | `kwaipilot/kat-coder-pro-v2` | `256,000 tokens` | `2026-03-28T00:29:44.320Z` | `text` | [Open](https://openrouter.ai/models/kwaipilot/kat-coder-pro-v2) |
-| `z-ai/glm-4.6` | `204,800 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.6) |
+| `z-ai/glm-4.6` | `202,752 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.6) |
 | `z-ai/glm-4.5v` | `65,536 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.5v) |
 | `z-ai/glm-4.5-air` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.5-air) |
 | `z-ai/glm-4.5-air` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-4.5-air) |
@@ -294,7 +296,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-4o-mini` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini) |
 | `openai/gpt-4o-2024-08-06` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o-2024-08-06) |
 | `openai/gpt-4o-2024-05-13` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o-2024-05-13) |
-| `openai/gpt-4o` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o) |
 | `openai/gpt-4-vision-preview` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4-vision-preview) |
 | `openai/gpt-4-turbo-preview` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4-turbo-preview) |
 | `openai/gpt-4-turbo` | `128,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4-turbo) |
