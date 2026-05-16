@@ -495,7 +495,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
-| `google/gemini-2.0-flash-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
+| `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
 | `fireworks/firellava-13b` | `4,096 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/fireworks/firellava-13b) |
 | `featherless/qwerky-72b` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/featherless/qwerky-72b) |
 | `eva-unit-01/eva-qwen-2.5-72b` | `32,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/eva-unit-01/eva-qwen-2.5-72b) |
