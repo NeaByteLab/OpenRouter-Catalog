@@ -2,10 +2,12 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (749)
+## Available Cloud Models (751)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `x-ai/grok-imagine-video` | `-` | `2026-05-18T15:21:34.734Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video) |
+| `x-ai/grok-imagine-image-quality` | `65,536 tokens` | `2026-05-18T15:21:32.930Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-image-quality) |
 | `mistralai/voxtral-mini-transcribe` | `-` | `2026-05-15T23:54:23.564Z` | `audio` | [Open](https://openrouter.ai/models/mistralai/voxtral-mini-transcribe) |
 | `qwen/qwen3-asr-flash-2026-02-10` | `-` | `2026-05-15T23:48:23.916Z` | `audio` | [Open](https://openrouter.ai/models/qwen/qwen3-asr-flash-2026-02-10) |
 | `inclusionai/ring-2.6-1t` | `262,144 tokens` | `2026-05-15T14:59:03.374Z` | `text, reasoning` | [Open](https://openrouter.ai/models/inclusionai/ring-2.6-1t) |
