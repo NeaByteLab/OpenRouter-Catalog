@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-19T21:25:40.656Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `google/gemini-3.5-flash` | `1,048,576 tokens` | `2026-05-19T18:53:37.316Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash) |
 | `x-ai/grok-imagine-video` | `-` | `2026-05-18T15:21:34.734Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video) |
 | `x-ai/grok-imagine-image-quality` | `65,536 tokens` | `2026-05-18T15:21:32.930Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-image-quality) |
@@ -57,7 +58,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-haiku-4.5` | `200,000 tokens` | `2026-05-12T01:54:22.936Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-haiku-4.5) |
 | `arcee-ai/trinity-large-thinking` | `262,144 tokens` | `2026-05-11T18:55:13.279Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-large-thinking) |
 | `arcee-ai/trinity-large-thinking` | `262,144 tokens` | `2026-05-11T18:55:13.279Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-large-thinking) |
-| `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-10T02:57:19.820Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `openrouter/pareto-code` | `2,000,000 tokens` | `2026-05-09T18:00:04.121Z` | `text` | [Open](https://openrouter.ai/models/openrouter/pareto-code) |
 | `openrouter/auto` | `2,000,000 tokens` | `2026-05-09T17:59:13.374Z` | `text, vision, audio, video, image-gen` | [Open](https://openrouter.ai/models/openrouter/auto) |
 | `tencent/hy3-preview` | `262,144 tokens` | `2026-05-08T22:41:20.907Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3-preview) |
