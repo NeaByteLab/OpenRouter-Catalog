@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (752)
+## Available Cloud Models (753)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-19T21:25:40.656Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `google/gemini-3.5-flash` | `1,048,576 tokens` | `2026-05-19T18:53:37.316Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash) |
 | `x-ai/grok-imagine-video` | `-` | `2026-05-18T15:21:34.734Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video) |
