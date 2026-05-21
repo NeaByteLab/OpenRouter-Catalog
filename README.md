@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (753)
+## Available Cloud Models (754)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `qwen/qwen3.7-max` | `1,000,000 tokens` | `2026-05-21T15:32:36.118Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-19T21:25:40.656Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `google/gemini-3.5-flash` | `1,048,576 tokens` | `2026-05-19T18:53:37.316Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash) |
@@ -188,7 +189,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-4.1` | `200,000 tokens` | `2026-04-11T05:41:05.394Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.1) |
 | `anthropic/claude-sonnet-4` | `1,000,000 tokens` | `2026-04-11T05:40:18.450Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4) |
 | `anthropic/claude-3.7-sonnet` | `200,000 tokens` | `2026-04-11T05:36:44.996Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-3.7-sonnet) |
-| `z-ai/glm-5.1` | `202,800 tokens` | `2026-04-07T17:39:47.767Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.1) |
+| `z-ai/glm-5.1` | `202,752 tokens` | `2026-04-07T17:39:47.767Z` | `text, reasoning` | [Open](https://openrouter.ai/models/z-ai/glm-5.1) |
 | `xiaomi/mimo-v2-pro` | `1,048,576 tokens` | `2026-04-07T14:58:59.803Z` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-pro) |
 | `x-ai/grok-4.20-beta` | `2,000,000 tokens` | `2026-04-06T17:22:52.647Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.20-beta) |
 | `cohere/rerank-4-fast` | `32,768 tokens` | `2026-04-06T04:09:28.163Z` | `text` | [Open](https://openrouter.ai/models/cohere/rerank-4-fast) |
