@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (753)
+## Available Cloud Models (754)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `nvidia/parakeet-tdt-0.6b-v3` | `-` | `2026-05-27T14:21:19.127Z` | `audio` | [Open](https://openrouter.ai/models/nvidia/parakeet-tdt-0.6b-v3) |
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `qwen/qwen3.7-max` | `1,000,000 tokens` | `2026-05-21T15:32:36.118Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
