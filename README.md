@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `qwen/qwen3.7-max` | `1,000,000 tokens` | `2026-05-21T15:32:36.118Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-19T21:25:40.656Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
@@ -496,7 +497,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash-lite` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-lite) |
 | `google/gemini-2.5-flash-image-preview` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-image-preview) |
 | `google/gemini-2.5-flash-image` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-image) |
-| `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `google/gemini-2.0-flash-lite-001` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-lite-001) |
 | `google/gemini-2.0-flash-exp` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-exp) |
 | `google/gemini-2.0-flash-001` | `1,000,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-2.0-flash-001) |
