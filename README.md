@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (755)
+## Available Cloud Models (756)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `google/gemini-embedding-2` | `8,192 tokens` | `2026-05-27T21:37:22.479Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2) |
 | `nvidia/parakeet-tdt-0.6b-v3` | `-` | `2026-05-27T14:21:19.127Z` | `audio` | [Open](https://openrouter.ai/models/nvidia/parakeet-tdt-0.6b-v3) |
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `qwen/qwen3.7-max` | `1,000,000 tokens` | `2026-05-21T15:32:36.118Z` | `text, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
@@ -620,7 +621,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/hunter-alpha` | `1,048,576 tokens` | `2026-03-19T00:46:55.381Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/hunter-alpha) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
+| `minimax/minimax-m2.5` | `262,144 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.7` | `204,800 tokens` | `2026-03-18T13:14:17.052Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.7) |
 | `mistralai/mistral-small-2603` | `262,144 tokens` | `2026-03-17T11:49:18.493Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-small-2603) |
