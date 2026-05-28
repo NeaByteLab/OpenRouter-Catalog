@@ -2,10 +2,13 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (756)
+## Available Cloud Models (758)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-05-28T16:57:56.744Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
+| `anthropic/claude-opus-4.8` | `1,000,000 tokens` | `2026-05-28T16:57:54.910Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
+| `stepfun/step-3.5-flash` | `262,144 tokens` | `2026-05-28T16:21:27.767Z` | `text, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.5-flash) |
 | `google/gemini-embedding-2` | `8,192 tokens` | `2026-05-27T21:37:22.479Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2) |
 | `nvidia/parakeet-tdt-0.6b-v3` | `-` | `2026-05-27T14:21:19.127Z` | `audio` | [Open](https://openrouter.ai/models/nvidia/parakeet-tdt-0.6b-v3) |
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
@@ -665,7 +668,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `allenai/molmo-2-8b` | `36,864 tokens` | `2026-02-04T19:13:22.202Z` | `text, vision, video` | [Open](https://openrouter.ai/models/allenai/molmo-2-8b) |
 | `qwen/qwen3-coder-next` | `262,144 tokens` | `2026-02-04T00:27:00.409Z` | `text` | [Open](https://openrouter.ai/models/qwen/qwen3-coder-next) |
 | `openrouter/free` | `200,000 tokens` | `2026-02-02T23:43:02.565Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/free) |
-| `stepfun/step-3.5-flash` | `262,144 tokens` | `2026-02-02T22:21:45.984Z` | `text, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.5-flash) |
 | `google/gemini-3-pro-preview` | `1,048,576 tokens` | `2026-01-27T15:11:59.578Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-preview) |
 | `writer/palmyra-x5` | `1,040,000 tokens` | `2026-01-21T17:42:14.484Z` | `text` | [Open](https://openrouter.ai/models/writer/palmyra-x5) |
 | `xiaomi/mimo-v2-flash` | `262,144 tokens` | `2026-01-21T16:26:04.702Z` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
