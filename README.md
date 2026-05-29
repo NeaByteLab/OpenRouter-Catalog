@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (758)
+## Available Cloud Models (759)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `stepfun/step-3.7-flash` | `256,000 tokens` | `2026-05-29T00:03:25.656Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.7-flash) |
 | `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-05-28T16:57:56.744Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
 | `anthropic/claude-opus-4.8` | `1,000,000 tokens` | `2026-05-28T16:57:54.910Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
 | `stepfun/step-3.5-flash` | `262,144 tokens` | `2026-05-28T16:21:27.767Z` | `text, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.5-flash) |
@@ -624,7 +625,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/hunter-alpha` | `1,048,576 tokens` | `2026-03-19T00:46:55.381Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/hunter-alpha) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `minimax/minimax-m2.5` | `262,144 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
+| `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.7` | `204,800 tokens` | `2026-03-18T13:14:17.052Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.7) |
 | `mistralai/mistral-small-2603` | `262,144 tokens` | `2026-03-17T11:49:18.493Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-small-2603) |
@@ -685,7 +686,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `minimax/minimax-m2.1` | `204,800 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.1) |
 | `minimax/minimax-m2` | `204,800 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2) |
 | `google/gemini-3-pro-image-preview` | `65,536 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image-preview) |
-| `deepseek/deepseek-v3.2-speciale` | `163,840 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v3.2-speciale) |
+| `deepseek/deepseek-v3.2-speciale` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/deepseek/deepseek-v3.2-speciale) |
 | `arcee-ai/trinity-mini` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/arcee-ai/trinity-mini) |
 | `allenai/olmo-3.1-32b-think` | `65,536 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/allenai/olmo-3.1-32b-think) |
 | `allenai/olmo-3-7b-think` | `65,536 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/allenai/olmo-3-7b-think) |
