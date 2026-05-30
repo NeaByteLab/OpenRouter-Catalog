@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (759)
+## Available Cloud Models (758)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openai/gpt-audio` | `128,000 tokens` | `2026-05-29T23:00:33.657Z` | `text, audio` | [Open](https://openrouter.ai/models/openai/gpt-audio) |
 | `stepfun/step-3.7-flash` | `256,000 tokens` | `2026-05-29T00:03:25.656Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.7-flash) |
 | `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-05-28T16:57:56.744Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
 | `anthropic/claude-opus-4.8` | `1,000,000 tokens` | `2026-05-28T16:57:54.910Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
@@ -161,7 +162,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/o1-pro` | `200,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/o1-pro) |
 | `openai/o1` | `200,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/o1) |
 | `openai/gpt-audio-mini` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, audio` | [Open](https://openrouter.ai/models/openai/gpt-audio-mini) |
-| `openai/gpt-audio` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, audio` | [Open](https://openrouter.ai/models/openai/gpt-audio) |
 | `openai/gpt-5.4-pro` | `1,050,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-pro) |
 | `openai/gpt-5.4-nano` | `400,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-nano) |
 | `openai/gpt-5.4` | `1,050,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4) |
@@ -186,7 +186,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openai/gpt-5` | `400,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5) |
 | `openai/gpt-4o-search-preview` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-search-preview) |
 | `openai/gpt-4o-mini-search-preview` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-search-preview) |
-| `openai/gpt-4o-audio-preview` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, audio` | [Open](https://openrouter.ai/models/openai/gpt-4o-audio-preview) |
 | `openai/gpt-4o-2024-11-20` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4o-2024-11-20) |
 | `openai/gpt-4.5-preview` | `128,000 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4.5-preview) |
 | `openai/gpt-4.1-nano` | `1,047,576 tokens` | `2026-04-11T05:55:25.761Z` | `text, vision` | [Open](https://openrouter.ai/models/openai/gpt-4.1-nano) |
