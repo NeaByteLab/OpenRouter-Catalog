@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (758)
+## Available Cloud Models (757)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `alfredpros/codellama-7b-instruct-solidity` | `4,096 tokens` | `2026-05-31T00:54:54.380Z` | `text` | [Open](https://openrouter.ai/models/alfredpros/codellama-7b-instruct-solidity) |
 | `openai/gpt-audio` | `128,000 tokens` | `2026-05-29T23:00:33.657Z` | `text, audio` | [Open](https://openrouter.ai/models/openai/gpt-audio) |
 | `stepfun/step-3.7-flash` | `256,000 tokens` | `2026-05-29T00:03:25.656Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/stepfun/step-3.7-flash) |
 | `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-05-28T16:57:56.744Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
@@ -593,7 +594,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `allenai/llama-3.1-tulu-3-405b` | `-` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/allenai/llama-3.1-tulu-3-405b) |
 | `all-hands/openhands-lm-32b-v0.1` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/all-hands/openhands-lm-32b-v0.1) |
 | `alibaba/tongyi-deepresearch-30b-a3b` | `131,072 tokens` | `2026-03-24T19:43:16.801Z` | `text, reasoning` | [Open](https://openrouter.ai/models/alibaba/tongyi-deepresearch-30b-a3b) |
-| `alfredpros/codellama-7b-instruct-solidity` | `4,096 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/alfredpros/codellama-7b-instruct-solidity) |
 | `aion-labs/aion-rp-llama-3.1-8b` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/aion-labs/aion-rp-llama-3.1-8b) |
 | `ai21/jamba-mini-1.7` | `256,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/ai21/jamba-mini-1.7) |
 | `ai21/jamba-large-1.7` | `256,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/ai21/jamba-large-1.7) |
@@ -624,7 +624,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/hunter-alpha` | `1,048,576 tokens` | `2026-03-19T00:46:55.381Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/openrouter/hunter-alpha) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-03-18T19:20:53.697Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
-| `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.5` | `204,800 tokens` | `2026-03-18T13:15:02.930Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.5) |
 | `minimax/minimax-m2.7` | `204,800 tokens` | `2026-03-18T13:14:17.052Z` | `text, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m2.7) |
 | `mistralai/mistral-small-2603` | `262,144 tokens` | `2026-03-17T11:49:18.493Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/mistralai/mistral-small-2603) |
