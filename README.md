@@ -27,9 +27,9 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `x-ai/grok-voice-tts-1.0` | `15,000 tokens` | `2026-05-15T01:46:23.403Z` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-voice-tts-1.0) |
 | `mistralai/mistral-large` | `128,000 tokens` | `2026-05-14T22:39:45.131Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-large) |
 | `mistralai/mixtral-8x22b-instruct` | `65,536 tokens` | `2026-05-14T22:39:44.559Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mixtral-8x22b-instruct) |
-| `mistralai/pixtral-large-2411` | `131,072 tokens` | `2026-05-14T22:39:43.976Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/pixtral-large-2411) |
+| `mistralai/pixtral-large-2411` | `128,000 tokens` | `2026-05-14T22:39:43.976Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/pixtral-large-2411) |
 | `mistralai/mistral-large-2407` | `131,072 tokens` | `2026-05-14T22:39:43.392Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2407) |
-| `mistralai/mistral-large-2411` | `131,072 tokens` | `2026-05-14T22:39:42.824Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2411) |
+| `mistralai/mistral-large-2411` | `128,000 tokens` | `2026-05-14T22:39:42.824Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-large-2411) |
 | `mistralai/mistral-saba` | `32,768 tokens` | `2026-05-14T22:39:42.152Z` | `text` | [Open](https://openrouter.ai/models/mistralai/mistral-saba) |
 | `mistralai/mistral-medium-3` | `131,072 tokens` | `2026-05-14T22:39:41.572Z` | `text, vision` | [Open](https://openrouter.ai/models/mistralai/mistral-medium-3) |
 | `mistralai/devstral-small` | `131,072 tokens` | `2026-05-14T22:39:40.988Z` | `text` | [Open](https://openrouter.ai/models/mistralai/devstral-small) |
