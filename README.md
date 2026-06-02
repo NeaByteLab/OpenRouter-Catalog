@@ -2,10 +2,14 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (757)
+## Available Cloud Models (761)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openrouter/fusion` | `128,000 tokens` | `2026-06-02T19:36:02.581Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
+| `microsoft/mai-voice-2` | `-` | `2026-06-02T18:31:37.298Z` | `text` | [Open](https://openrouter.ai/models/microsoft/mai-voice-2) |
+| `microsoft/mai-transcribe-1.5` | `-` | `2026-06-02T18:31:35.095Z` | `audio` | [Open](https://openrouter.ai/models/microsoft/mai-transcribe-1.5) |
+| `microsoft/mai-image-2.5` | `4,096 tokens` | `2026-06-02T18:28:16.412Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/microsoft/mai-image-2.5) |
 | `minimax/minimax-m3` | `1,048,576 tokens` | `2026-06-01T02:35:23.054Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m3) |
 | `xiaomi/mimo-v2-omni` | `262,144 tokens` | `2026-06-01T01:43:50.254Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-omni) |
 | `xiaomi/mimo-v2-pro` | `1,048,576 tokens` | `2026-06-01T01:43:31.694Z` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-pro) |
