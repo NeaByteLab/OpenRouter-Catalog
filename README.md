@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (761)
+## Available Cloud Models (762)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `qwen/qwen3.7-plus` | `1,000,000 tokens` | `2026-06-03T13:07:32.544Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3.7-plus) |
 | `minimax/minimax-m3` | `1,048,576 tokens` | `2026-06-03T07:32:26.057Z` | `text, vision, video, reasoning` | [Open](https://openrouter.ai/models/minimax/minimax-m3) |
 | `openrouter/fusion` | `128,000 tokens` | `2026-06-02T19:36:02.581Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
 | `microsoft/mai-voice-2` | `-` | `2026-06-02T18:31:37.298Z` | `text` | [Open](https://openrouter.ai/models/microsoft/mai-voice-2) |
