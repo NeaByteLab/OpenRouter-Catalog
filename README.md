@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (762)
+## Available Cloud Models (761)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -141,7 +141,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/veo-3.1-lite` | `-` | `2026-04-23T21:13:55.384Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/google/veo-3.1-lite) |
 | `minimax/hailuo-2.3` | `-` | `2026-04-23T17:18:45.452Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/minimax/hailuo-2.3) |
 | `baidu/qianfan-ocr-fast` | `65,536 tokens` | `2026-04-23T01:56:28.013Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/baidu/qianfan-ocr-fast) |
-| `openai/gpt-4o-mini-tts-2025-12-15` | `4,096 tokens` | `2026-04-22T18:12:35.288Z` | `text` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-tts-2025-12-15) |
 | `mistralai/voxtral-mini-tts-2603` | `4,096 tokens` | `2026-04-22T18:12:35.288Z` | `text` | [Open](https://openrouter.ai/models/mistralai/voxtral-mini-tts-2603) |
 | `openai/gpt-5.4-image-2` | `272,000 tokens` | `2026-04-21T23:24:05.941Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/openai/gpt-5.4-image-2) |
 | `kwaivgi/kling-video-o1` | `-` | `2026-04-21T02:06:28.711Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/kwaivgi/kling-video-o1) |
