@@ -6,8 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
-| `sourceful/riverflow-v2.5-pro` | `32,768 tokens` | `2026-06-07T18:20:42.710Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-pro) |
-| `sourceful/riverflow-v2.5-fast` | `32,768 tokens` | `2026-06-07T18:18:52.069Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-fast) |
+| `sourceful/riverflow-v2.5-pro` | `32,768 tokens` | `2026-06-08T14:35:13.079Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-pro) |
+| `sourceful/riverflow-v2.5-fast` | `32,768 tokens` | `2026-06-08T14:34:59.712Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-fast) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-06-04T16:36:20.070Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-06-04T16:36:20.070Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
 | `nvidia/nemotron-3.5-content-safety` | `128,000 tokens` | `2026-06-04T14:19:12.864Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3.5-content-safety) |
@@ -683,7 +683,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `liquid/lfm2-8b-a1b` | `8,192 tokens` | `2026-01-20T17:31:27.697Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm2-8b-a1b) |
 | `liquid/lfm-2.5-1.2b-instruct` | `32,768 tokens` | `2026-01-20T17:31:20.872Z` | `text` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-instruct) |
 | `liquid/lfm-2.5-1.2b-thinking` | `32,768 tokens` | `2026-01-20T17:31:17.106Z` | `text, reasoning` | [Open](https://openrouter.ai/models/liquid/lfm-2.5-1.2b-thinking) |
-| `nex-agi/deepseek-v3.1-nex-n1` | `131,072 tokens` | `2026-01-09T16:52:05.526Z` | `text` | [Open](https://openrouter.ai/models/nex-agi/deepseek-v3.1-nex-n1) |
+| `nex-agi/deepseek-v3.1-nex-n1` | `8,192 tokens` | `2026-01-09T16:52:05.526Z` | `text` | [Open](https://openrouter.ai/models/nex-agi/deepseek-v3.1-nex-n1) |
 | `tngtech/tng-r1t-chimera` | `163,840 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tngtech/tng-r1t-chimera) |
 | `qwen/qwen3-vl-8b-thinking` | `256,000 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-8b-thinking) |
 | `prime-intellect/intellect-3` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
