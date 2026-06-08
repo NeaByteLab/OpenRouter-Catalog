@@ -2,10 +2,11 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (766)
+## Available Cloud Models (767)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `nex-agi/nex-n2-pro` | `262,144 tokens` | `2026-06-08T17:58:09.809Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-pro) |
 | `sourceful/riverflow-v2.5-pro` | `32,768 tokens` | `2026-06-08T14:35:13.079Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-pro) |
 | `sourceful/riverflow-v2.5-fast` | `32,768 tokens` | `2026-06-08T14:34:59.712Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-fast) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-06-04T16:36:20.070Z` | `text, reasoning` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
