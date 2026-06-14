@@ -13,7 +13,7 @@ import urllib.request
 
 readmeFile = sys.argv[1]
 updateTime = sys.argv[2]
-apiUrl = 'https://openrouter.ai/api/frontend/models'
+apiUrl = 'https://openrouter.ai/api/frontend/v1/catalog/models'
 
 with urllib.request.urlopen(apiUrl, timeout=30) as httpResponse:
   apiData = json.loads(httpResponse.read().decode())
@@ -42,7 +42,8 @@ for modelData in modelList:
     capList.append('video-gen')
   if modelData.get('supports_reasoning', False):
     capList.append('reasoning')
-  if modelData.get('supports_tool_parameters', False):
+  modelEndpoint = modelData.get('endpoint') or {}
+  if modelEndpoint.get('supports_tool_parameters', False):
     capList.append('tools')
   if contextLength:
     sizeText = f'{contextLength:,} tokens'
