@@ -6,7 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
-| `z-ai/glm-5.2` | `1,048,576 tokens` | `2026-06-16T17:45:30.815Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
+| `z-ai/glm-5.2` | `1,048,576 tokens` | `2026-06-17T09:16:01.824Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `openrouter/fusion` | `1,000,000 tokens` | `2026-06-15T16:55:39.603Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
 | `minimax/minimax-m3` | `1,048,576 tokens` | `2026-06-15T15:00:03.787Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m3) |
 | `xiaomi/mimo-v2-flash` | `262,144 tokens` | `2026-06-15T01:32:43.107Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
