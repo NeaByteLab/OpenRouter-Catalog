@@ -6,10 +6,10 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
+| `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
-| `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T14:40:35.591Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
-| `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T14:40:35.591Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `z-ai/glm-5.2` | `1,048,576 tokens` | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `65,536 tokens` | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
