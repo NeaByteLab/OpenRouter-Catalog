@@ -6,6 +6,10 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `recraft/recraft-v4.1-utility-pro` | `65,536 tokens` | `2026-06-19T02:06:27.155Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility-pro) |
+| `recraft/recraft-v4.1-pro` | `65,536 tokens` | `2026-06-19T02:06:26.828Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro) |
+| `recraft/recraft-v4.1-utility` | `65,536 tokens` | `2026-06-19T02:06:26.493Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility) |
+| `recraft/recraft-v4.1` | `65,536 tokens` | `2026-06-19T02:06:26.161Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
@@ -79,12 +83,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `x-ai/grok-code-fast-1` | `256,000 tokens` | `2026-05-14T21:11:32.080Z` | `text, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-code-fast-1) |
 | `x-ai/grok-4-fast` | `2,000,000 tokens` | `2026-05-14T21:11:31.702Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4-fast) |
 | `x-ai/grok-4.1-fast` | `2,000,000 tokens` | `2026-05-14T21:11:31.304Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/x-ai/grok-4.1-fast) |
-| `recraft/recraft-v4.1-utility-pro` | `65,536 tokens` | `2026-05-14T15:53:46.885Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility-pro) |
-| `recraft/recraft-v4.1-pro` | `65,536 tokens` | `2026-05-14T15:53:44.099Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro) |
-| `recraft/recraft-v4.1-utility` | `65,536 tokens` | `2026-05-14T15:53:40.461Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility) |
 | `recraft/recraft-v4.1-pro-vector` | `65,536 tokens` | `2026-05-14T15:46:59.590Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro-vector) |
 | `recraft/recraft-v4.1-vector` | `65,536 tokens` | `2026-05-14T15:46:57.174Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-vector) |
-| `recraft/recraft-v4.1` | `65,536 tokens` | `2026-05-14T15:46:47.704Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
 | `recraft/recraft-v4-pro-vector` | `65,536 tokens` | `2026-05-14T15:46:45.615Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-pro-vector) |
 | `recraft/recraft-v4-vector` | `65,536 tokens` | `2026-05-14T15:46:43.460Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4-vector) |
 | `google/gemini-embedding-2-preview` | `8,192 tokens` | `2026-05-14T04:33:38.585Z` | `text, vision, audio, video` | [Open](https://openrouter.ai/models/google/gemini-embedding-2-preview) |
