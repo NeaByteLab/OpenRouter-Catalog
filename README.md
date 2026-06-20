@@ -6,6 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openai/whisper-large-v3` | `-` | `2026-06-19T20:57:26.073Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3) |
+| `openai/whisper-large-v3-turbo` | `-` | `2026-06-19T20:56:27.224Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3-turbo) |
 | `recraft/recraft-v4.1-pro-vector` | `65,536 tokens` | `2026-06-19T11:32:22.407Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-pro-vector) |
 | `recraft/recraft-v4.1-vector` | `65,536 tokens` | `2026-06-19T11:32:22.073Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-vector) |
 | `recraft/recraft-v4.1-utility-pro` | `65,536 tokens` | `2026-06-19T02:06:27.155Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1-utility-pro) |
@@ -122,8 +124,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `x-ai/grok-2-mini` | `32,768 tokens` | `2026-05-04T18:57:38.540Z` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-mini) |
 | `x-ai/grok-2-1212` | `131,072 tokens` | `2026-05-04T18:57:37.844Z` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2-1212) |
 | `x-ai/grok-2` | `32,768 tokens` | `2026-05-04T18:57:37.302Z` | `text` | [Open](https://openrouter.ai/models/x-ai/grok-2) |
-| `openai/whisper-large-v3-turbo` | `-` | `2026-05-01T18:23:06.774Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3-turbo) |
-| `openai/whisper-large-v3` | `-` | `2026-05-01T18:22:45.468Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3) |
 | `openai/gpt-4o-mini-transcribe` | `128,000 tokens` | `2026-05-01T18:21:38.562Z` | `audio` | [Open](https://openrouter.ai/models/openai/gpt-4o-mini-transcribe) |
 | `openai/gpt-4o-transcribe` | `128,000 tokens` | `2026-04-30T19:56:43.086Z` | `audio` | [Open](https://openrouter.ai/models/openai/gpt-4o-transcribe) |
 | `openai/whisper-1` | `-` | `2026-04-30T19:55:22.521Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-1) |
