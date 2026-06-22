@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (774)
+## Available Cloud Models (775)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -34,6 +34,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-06-10T04:22:41.370Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
 | `nvidia/llama-nemotron-rerank-vl-1b-v2` | `10,240 tokens` | `2026-06-09T20:54:06.134Z` | `text, vision` | [Open](https://openrouter.ai/models/nvidia/llama-nemotron-rerank-vl-1b-v2) |
 | `nex-agi/nex-n2-pro` | `262,144 tokens` | `2026-06-08T17:58:09.809Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-pro) |
+| `nex-agi/nex-n2-pro` | `262,144 tokens` | `2026-06-08T17:58:09.809Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-pro) |
 | `sourceful/riverflow-v2.5-pro` | `32,768 tokens` | `2026-06-08T14:35:13.079Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-pro) |
 | `sourceful/riverflow-v2.5-fast` | `32,768 tokens` | `2026-06-08T14:34:59.712Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/sourceful/riverflow-v2.5-fast) |
 | `nvidia/nemotron-3-super-120b-a12b` | `1,000,000 tokens` | `2026-06-04T16:36:20.070Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/nvidia/nemotron-3-super-120b-a12b) |
@@ -593,7 +594,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-instant-1` | `100,000 tokens` | `2026-03-24T19:43:16.801Z` | `text` | [Open](https://openrouter.ai/models/anthropic/claude-instant-1) |
 | `anthropic/claude-3.5-sonnet-20240620` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-sonnet-20240620) |
 | `anthropic/claude-3.5-haiku-20241022` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-haiku-20241022) |
-| `anthropic/claude-3.5-haiku` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-haiku) |
+| `anthropic/claude-3.5-haiku` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3.5-haiku) |
 | `anthropic/claude-3-sonnet` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3-sonnet) |
 | `anthropic/claude-3-opus` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/anthropic/claude-3-opus) |
 | `anthropic/claude-3-haiku` | `200,000 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, tools` | [Open](https://openrouter.ai/models/anthropic/claude-3-haiku) |
