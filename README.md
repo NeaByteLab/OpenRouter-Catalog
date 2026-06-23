@@ -694,7 +694,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `nex-agi/deepseek-v3.1-nex-n1` | `8,192 tokens` | `2026-01-09T16:52:05.526Z` | `text` | [Open](https://openrouter.ai/models/nex-agi/deepseek-v3.1-nex-n1) |
 | `tngtech/tng-r1t-chimera` | `163,840 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tngtech/tng-r1t-chimera) |
 | `qwen/qwen3-vl-8b-thinking` | `256,000 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3-vl-8b-thinking) |
-| `prime-intellect/intellect-3` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
+| `prime-intellect/intellect-3` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
 | `perplexity/sonar-pro-search` | `200,000 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/perplexity/sonar-pro-search) |
 | `openai/gpt-oss-safeguard-20b` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-oss-safeguard-20b) |
 | `moonshotai/kimi-k2-thinking` | `262,144 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2-thinking) |
