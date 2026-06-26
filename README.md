@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-06-25T20:43:23.740Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `openai/gpt-image-1` | `400,000 tokens` | `2026-06-24T07:34:03.584Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1) |
 | `openai/gpt-image-1-mini` | `400,000 tokens` | `2026-06-24T07:34:00.246Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1-mini) |
 | `openai/gpt-image-2` | `400,000 tokens` | `2026-06-24T07:33:54.372Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-2) |
@@ -114,7 +115,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `recraft/recraft-v4` | `65,536 tokens` | `2026-05-07T22:08:01.711Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4) |
 | `recraft/recraft-v3` | `65,536 tokens` | `2026-05-07T22:07:59.248Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v3) |
 | `x-ai/grok-4.20` | `2,000,000 tokens` | `2026-05-07T18:58:44.584Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.20) |
-| `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-05-07T18:46:53.496Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `google/gemini-3.1-flash-lite` | `1,048,576 tokens` | `2026-05-07T16:01:49.211Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite) |
 | `inclusionai/ling-2.6-1t` | `262,144 tokens` | `2026-05-07T14:58:54.088Z` | `text, tools` | [Open](https://openrouter.ai/models/inclusionai/ling-2.6-1t) |
 | `google/chirp-3` | `-` | `2026-05-06T17:19:59.970Z` | `audio` | [Open](https://openrouter.ai/models/google/chirp-3) |
