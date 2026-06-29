@@ -19,7 +19,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-opus-4.8` | `1,000,000 tokens` | `2026-06-22T15:27:15.019Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
 | `anthropic/claude-opus-4.7-fast` | `1,000,000 tokens` | `2026-06-22T15:27:14.737Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7-fast) |
 | `anthropic/claude-opus-4.7` | `1,000,000 tokens` | `2026-06-22T15:27:14.454Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7) |
-| `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | `2026-06-22T15:27:14.140Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
+| `anthropic/claude-opus-4.6-fast` | `1,000,000 tokens` | `2026-06-22T15:27:14.140Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6-fast) |
 | `anthropic/claude-sonnet-4.6` | `1,000,000 tokens` | `2026-06-22T15:27:13.802Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-4.6) |
 | `anthropic/claude-opus-4.6` | `1,000,000 tokens` | `2026-06-22T15:27:13.481Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.6) |
 | `openai/whisper-large-v3` | `-` | `2026-06-19T20:57:26.073Z` | `audio` | [Open](https://openrouter.ai/models/openai/whisper-large-v3) |
