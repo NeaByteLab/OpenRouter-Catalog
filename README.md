@@ -6,6 +6,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `openrouter/owl-alpha` | `1,048,576 tokens` | `2026-06-30T11:53:34.049Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-06-25T20:43:23.740Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `openai/gpt-image-1` | `400,000 tokens` | `2026-06-24T07:34:03.584Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1) |
 | `openai/gpt-image-1-mini` | `400,000 tokens` | `2026-06-24T07:34:00.246Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1-mini) |
@@ -68,7 +69,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-flash` | `1,048,576 tokens` | `2026-05-26T20:25:56.298Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash) |
 | `qwen/qwen3.7-max` | `1,000,000 tokens` | `2026-05-21T15:32:36.118Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/qwen/qwen3.7-max) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-05-20T17:28:47.985Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
-| `openrouter/owl-alpha` | `1,048,756 tokens` | `2026-05-19T21:25:40.656Z` | `text, tools` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
 | `google/gemini-3.5-flash` | `1,048,576 tokens` | `2026-05-19T18:53:37.316Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-3.5-flash) |
 | `x-ai/grok-imagine-video` | `-` | `2026-05-18T15:21:34.734Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-video) |
 | `x-ai/grok-imagine-image-quality` | `65,536 tokens` | `2026-05-18T15:21:32.930Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/x-ai/grok-imagine-image-quality) |
