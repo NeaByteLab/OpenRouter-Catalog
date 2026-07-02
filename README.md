@@ -6,6 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `anthropic/claude-fable-5` | `1,000,000 tokens` | `2026-07-01T19:41:36.643Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
+| `~anthropic/claude-fable-latest` | `1,000,000 tokens` | `2026-07-01T19:41:22.647Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
 | `anthropic/claude-sonnet-5` | `1,000,000 tokens` | `2026-06-30T18:40:17.094Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-5) |
 | `google/gemini-3.1-flash-lite-image` | `65,536 tokens` | `2026-06-30T16:40:40.384Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite-image) |
 | `openrouter/owl-alpha` | `1,048,576 tokens` | `2026-06-30T11:53:34.049Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
@@ -17,7 +19,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `alibaba/happyhorse-1.1` | `-` | `2026-06-24T02:54:03.977Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/alibaba/happyhorse-1.1) |
 | `alibaba/happyhorse-1.0` | `-` | `2026-06-24T02:31:24.601Z` | `text, vision, video-gen` | [Open](https://openrouter.ai/models/alibaba/happyhorse-1.0) |
 | `moonshotai/kimi-k2.6` | `262,144 tokens` | `2026-06-24T01:58:36.646Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.6) |
-| `anthropic/claude-fable-5` | `1,000,000 tokens` | `2026-06-22T15:27:15.754Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `anthropic/claude-opus-4.8-fast` | `1,000,000 tokens` | `2026-06-22T15:27:15.308Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8-fast) |
 | `anthropic/claude-opus-4.8` | `1,000,000 tokens` | `2026-06-22T15:27:15.019Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.8) |
 | `anthropic/claude-opus-4.7-fast` | `1,000,000 tokens` | `2026-06-22T15:27:14.737Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-opus-4.7-fast) |
@@ -45,7 +46,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `openrouter/fusion` | `1,000,000 tokens` | `2026-06-15T16:55:39.603Z` | `text` | [Open](https://openrouter.ai/models/openrouter/fusion) |
 | `minimax/minimax-m3` | `1,048,576 tokens` | `2026-06-15T15:00:03.787Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m3) |
 | `xiaomi/mimo-v2-flash` | `262,144 tokens` | `2026-06-15T01:32:43.107Z` | `text, reasoning` | [Open](https://openrouter.ai/models/xiaomi/mimo-v2-flash) |
-| `~anthropic/claude-fable-latest` | `1,000,000 tokens` | `2026-06-13T17:35:33.188Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
 | `moonshotai/kimi-k2.7-code` | `262,144 tokens` | `2026-06-13T13:58:56.538Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2.7-code) |
 | `stepfun/step-3.7-flash` | `256,000 tokens` | `2026-06-12T16:33:16.030Z` | `text, vision, video, reasoning, tools` | [Open](https://openrouter.ai/models/stepfun/step-3.7-flash) |
 | `nvidia/llama-nemotron-rerank-vl-1b-v2` | `10,240 tokens` | `2026-06-09T20:54:06.134Z` | `text, vision` | [Open](https://openrouter.ai/models/nvidia/llama-nemotron-rerank-vl-1b-v2) |
