@@ -2,12 +2,13 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (786)
+## Available Cloud Models (787)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
-| `tencent/hy3` | `262,144 tokens` | `2026-07-06T14:26:00.969Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
-| `tencent/hy3` | `262,144 tokens` | `2026-07-06T14:26:00.969Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
+| `nex-agi/nex-n2-mini` | `262,144 tokens` | `2026-07-06T18:57:30.368Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-mini) |
+| `tencent/hy3` | `262,144 tokens` | `2026-07-06T15:18:22.681Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
+| `tencent/hy3` | `262,144 tokens` | `2026-07-06T15:18:22.681Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | `2026-07-01T19:41:36.643Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
