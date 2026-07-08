@@ -2,10 +2,14 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (789)
+## Available Cloud Models (791)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `moonshotai/kimi-k2-thinking` | `262,144 tokens` | `2026-07-08T17:53:01.236Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2-thinking) |
+| `x-ai/grok-4.5` | `500,000 tokens` | `2026-07-08T17:50:49.985Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.5) |
+| `~x-ai/grok-latest` | `500,000 tokens` | `2026-07-08T15:05:31.837Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~x-ai/grok-latest) |
+| `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-07-08T14:53:30.355Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-07-07T23:44:41.824Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
 | `aion-labs/aion-3.0` | `131,072 tokens` | `2026-07-07T19:17:06.600Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0) |
 | `aion-labs/aion-3.0-mini` | `131,072 tokens` | `2026-07-07T19:17:03.625Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/aion-labs/aion-3.0-mini) |
@@ -19,7 +23,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-sonnet-5` | `1,000,000 tokens` | `2026-06-30T18:40:17.094Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-sonnet-5) |
 | `google/gemini-3.1-flash-lite-image` | `65,536 tokens` | `2026-06-30T16:40:40.384Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-lite-image) |
 | `openrouter/owl-alpha` | `1,048,576 tokens` | `2026-06-30T11:53:34.049Z` | `text` | [Open](https://openrouter.ai/models/openrouter/owl-alpha) |
-| `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-06-25T20:43:23.740Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `openai/gpt-image-1` | `400,000 tokens` | `2026-06-24T07:34:03.584Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1) |
 | `openai/gpt-image-1-mini` | `400,000 tokens` | `2026-06-24T07:34:00.246Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-1-mini) |
 | `openai/gpt-image-2` | `400,000 tokens` | `2026-06-24T07:33:54.372Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/openai/gpt-image-2) |
@@ -712,7 +715,6 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `prime-intellect/intellect-3` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning` | [Open](https://openrouter.ai/models/prime-intellect/intellect-3) |
 | `perplexity/sonar-pro-search` | `200,000 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, reasoning` | [Open](https://openrouter.ai/models/perplexity/sonar-pro-search) |
 | `openai/gpt-oss-safeguard-20b` | `131,072 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/openai/gpt-oss-safeguard-20b) |
-| `moonshotai/kimi-k2-thinking` | `262,144 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2-thinking) |
 | `minimax/minimax-m2.1` | `204,800 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m2.1) |
 | `minimax/minimax-m2` | `204,800 tokens` | `2026-01-08T19:23:52.555Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/minimax/minimax-m2) |
 | `google/gemini-3-pro-image-preview` | `65,536 tokens` | `2026-01-08T19:23:52.555Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image-preview) |
