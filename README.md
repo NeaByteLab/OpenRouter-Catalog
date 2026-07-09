@@ -6,8 +6,8 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
+| `x-ai/grok-4.5` | `500,000 tokens` | `2026-07-09T02:07:08.697Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.5) |
 | `moonshotai/kimi-k2-thinking` | `262,144 tokens` | `2026-07-08T17:53:01.236Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/moonshotai/kimi-k2-thinking) |
-| `x-ai/grok-4.5` | `500,000 tokens` | `2026-07-08T17:50:49.985Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.5) |
 | `~x-ai/grok-latest` | `500,000 tokens` | `2026-07-08T15:05:31.837Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~x-ai/grok-latest) |
 | `x-ai/grok-4.3` | `1,000,000 tokens` | `2026-07-08T14:53:30.355Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-4.3) |
 | `x-ai/grok-build-0.1` | `256,000 tokens` | `2026-07-07T23:44:41.824Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/x-ai/grok-build-0.1) |
@@ -16,7 +16,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `anthropic/claude-fable-5` | `1,000,000 tokens` | `2026-07-06T20:55:51.345Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/anthropic/claude-fable-5) |
 | `nex-agi/nex-n2-mini` | `262,144 tokens` | `2026-07-06T18:57:30.368Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/nex-agi/nex-n2-mini) |
 | `tencent/hy3` | `262,144 tokens` | `2026-07-06T15:18:22.681Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
-| `tencent/hy3` | `262,144 tokens` | `2026-07-06T15:18:22.681Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/tencent/hy3) |
+| `tencent/hy3` | `262,144 tokens` | `2026-07-06T15:18:22.681Z` | `text, reasoning` | [Open](https://openrouter.ai/models/tencent/hy3) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `poolside/laguna-xs-2.1` | `262,144 tokens` | `2026-07-02T17:09:23.206Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs-2.1) |
 | `~anthropic/claude-fable-latest` | `1,000,000 tokens` | `2026-07-01T19:41:22.647Z` | `text, vision, reasoning, tools` | [Open](https://openrouter.ai/models/~anthropic/claude-fable-latest) |
