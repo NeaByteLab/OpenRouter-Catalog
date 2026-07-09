@@ -2,7 +2,7 @@
 
 Fetch cloud models, inspect capabilities, publish clickable table automatically.
 
-## Available Cloud Models (791)
+## Available Cloud Models (790)
 
 | model name | context | modified at | capability tags | official link |
 | --- | --- | --- | --- | --- |
@@ -47,8 +47,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `recraft/recraft-v4.1` | `65,536 tokens` | `2026-06-19T02:06:26.161Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/recraft/recraft-v4.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
 | `poolside/laguna-m.1` | `262,144 tokens` | `2026-06-18T15:00:53.906Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-m.1) |
-| `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
-| `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
+| `poolside/laguna-xs.2` | `262,144 tokens` | `2026-06-18T14:40:46.361Z` | `text, reasoning` | [Open](https://openrouter.ai/models/poolside/laguna-xs.2) |
 | `z-ai/glm-5.2` | `1,048,576 tokens` | `2026-06-18T11:28:43.458Z` | `text, reasoning, tools` | [Open](https://openrouter.ai/models/z-ai/glm-5.2) |
 | `google/gemini-3.1-flash-image` | `131,072 tokens` | `2026-06-18T04:02:13.051Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3.1-flash-image) |
 | `google/gemini-3-pro-image` | `65,536 tokens` | `2026-06-18T04:01:39.173Z` | `text, vision, image-gen, reasoning` | [Open](https://openrouter.ai/models/google/gemini-3-pro-image) |
@@ -538,7 +537,7 @@ Fetch cloud models, inspect capabilities, publish clickable table automatically.
 | `google/gemini-2.5-pro-preview` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-pro-preview) |
 | `google/gemini-2.5-pro-exp-03-25` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision` | [Open](https://openrouter.ai/models/google/gemini-2.5-pro-exp-03-25) |
 | `google/gemini-2.5-flash-preview-09-2025` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-preview-09-2025) |
-| `google/gemini-2.5-flash-lite-preview-09-2025` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-lite-preview-09-2025) |
+| `google/gemini-2.5-flash-lite-preview-09-2025` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-lite-preview-09-2025) |
 | `google/gemini-2.5-flash-lite` | `1,048,576 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, audio, video, reasoning, tools` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-lite) |
 | `google/gemini-2.5-flash-image-preview` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-image-preview) |
 | `google/gemini-2.5-flash-image` | `32,768 tokens` | `2026-03-24T19:43:16.801Z` | `text, vision, image-gen` | [Open](https://openrouter.ai/models/google/gemini-2.5-flash-image) |
